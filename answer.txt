@@ -1,0 +1,2 @@
+The hosts file doesn't contain the web-server1 and web-server2 and that's why ansible doesn't know to which host its
+needs to connect to, hence the error.
